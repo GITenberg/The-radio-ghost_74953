@@ -1,0 +1,47 @@
+_repo: The-radio-ghost_74953
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Paul, Frank R. (Frank Rudolph)
+    alias: Paul, Frank Rudolph
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '31333'
+    url: http://www.gutenberg.org/2009/agents/31333
+    wikipedia: https://en.wikipedia.org/wiki/Frank_R._Paul
+creator:
+  author:
+    agent_name: Kline, Otis Adelbert
+    alias: Kline, Otis A.
+    birthdate: 1891
+    deathdate: 1946
+    gutenberg_agent_id: '51856'
+    url: http://www.gutenberg.org/2009/agents/51856
+    wikipedia: https://en.wikipedia.org/wiki/Otis_Adelbert_Kline
+description: ''
+gutenberg_issued: '2024-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74953'
+language: en
+pgterms:marc905: 20241218034533kline
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bExperimenter Publishing Company, Inc., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note:
+- Produced from the September 1927 issue of Amazing Stories magazine.
+- Dr. Dorp, 3
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Spiritualism -- Fiction'
+- !lcsh 'Radio -- Fiction'
+- !lcsh 'Wills -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The radio ghost
+url: http://www.gutenberg.org/ebooks/74953
