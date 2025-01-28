@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '31333'
     url: http://www.gutenberg.org/2009/agents/31333
     wikipedia: https://en.wikipedia.org/wiki/Frank_R._Paul
+covers:
+- cover_type: archival
+  image_path: 74953-h/images/cover.jpg
 creator:
   author:
     agent_name: Kline, Otis Adelbert
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51856
     wikipedia: https://en.wikipedia.org/wiki/Otis_Adelbert_Kline
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74953#The-radio-ghost
 gutenberg_issued: '2024-12-20'
 gutenberg_type: Text
 identifiers:
